@@ -9,5 +9,12 @@ As we will introduce a new naming convention we will provide a possebilty to sim
 ### The new convention:
 - The major American Company, that endes in one:
     - The Solid Series:
-        - for the coated ones: _**"COLLECTIVETONES Coated 00000 C"**_  _(the '00000' row of numbers for each color)_
-        - fot the uncoated ones: _**"COLLECTIVETONES Solid 00000 U"**_  _(the '00000' row of numbers for each color)_
+        - for the coated ones: _"COLLECTIVETONES 00000 PSC"_ _(the '00000' bundle of numbers is the code for each color)_
+        - fot the uncoated ones: _"COLLECTIVETONES 00000 PSU"_ _(the '00000' bundle of numbers is the code for each color)_
+- The German Company, thats  name contains A,L,R.
+    - The Classic Series:
+        - _"COLLECTIVETONES 0000 RC"_ _(the '00000' bundle of numbers is the code for each color)_
+    - The Design+ Series
+      - _"COLLECTIVETONES 0000 RD"_ _(the '00000' bundle of numbers is the code for each color)_
+    - The Effect Series
+      - _"COLLECTIVETONES 0000 RE"_ _(the '00000' bundle of numbers is the code for each color)_
